@@ -3,3 +3,9 @@
 ---
 
 # console loadingbar
+
+
+### Other Versions
+- [MSBUILD DLL VERSION](https://github.com/Sharkbyteprojects/consoleLoadingBar-win)
+
+&copy; Sharkbyteprojects
