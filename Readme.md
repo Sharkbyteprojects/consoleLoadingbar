@@ -28,6 +28,8 @@ COLORCODE             | Color  | EXAMPLE
 
 To see the Bar, render it after every change (or continuing in a seperate thread) render means also resizing to console window `bar.render();`
 
+[EXAMPLE GIST](https://gist.github.com/Sharkbyteprojects/7340bfbff7e063fd0686ebf537e92ed8)
+
 
 ## Other Versions
 - [MSBUILD DLL VERSION](https://github.com/Sharkbyteprojects/consoleLoadingBar-win) ([![MSBuild](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/msbuild.yml/badge.svg)](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/msbuild.yml) [![CodeQL](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/codeql.yml/badge.svg)](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/codeql.yml))
