@@ -6,6 +6,6 @@
 
 
 ### Other Versions
-- [MSBUILD DLL VERSION](https://github.com/Sharkbyteprojects/consoleLoadingBar-win)
+- [MSBUILD DLL VERSION](https://github.com/Sharkbyteprojects/consoleLoadingBar-win) ([![MSBuild](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/msbuild.yml/badge.svg)](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/msbuild.yml) [![CodeQL](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/codeql.yml/badge.svg)](https://github.com/Sharkbyteprojects/consoleLoadingBar-win/actions/workflows/codeql.yml))
 
 &copy; Sharkbyteprojects
